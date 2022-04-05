@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73159503658",
+    "firebase_url": "https://socialll-fccb0-default-rtdb.firebaseio.com",
+    "project_id": "socialll-fccb0",
+    "storage_bucket": "socialll-fccb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73159503658:android:f0f34fc82113de16327853",
+        "android_client_info": {
+          "package_name": "com.example.socialll_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73159503658-5vglql6j8lkcirfp4m110v477b4h2r5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialll_app",
+            "certificate_hash": "d324ace02469d420a3d5b2471483e4c06fb9561f"
+          }
+        },
+        {
+          "client_id": "73159503658-65m933oj0fftp6vijctrqsqciotlno0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh0WcdXjMJF_Laz3zeRuqdeaqPBQfJFfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73159503658-65m933oj0fftp6vijctrqsqciotlno0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
